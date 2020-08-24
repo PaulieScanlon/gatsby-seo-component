@@ -1,0 +1,34 @@
+{
+  "name": "gatsby-seo-component",
+  "version": "1.0.0",
+  "description": "A simple demo repo for creating a Gatsby Seo component",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-seo-component.git"
+  },
+  "keywords": [
+    "Gatsby",
+    "Seo"
+  ],
+  "author": "Paul Scanlon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-seo-component/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-seo-component#readme",
+  "dependencies": {
+    "gatsby": "^2.24.47",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0"
+  }
+}
