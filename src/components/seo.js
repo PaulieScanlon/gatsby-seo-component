@@ -76,6 +76,7 @@ Seo.propTypes = {
   ogImage: PropTypes.string,
   /** Favicon image urls**/
   favicon: PropTypes.shape({
+    ico: PropTypes.string,
     sm: PropTypes.string,
     lg: PropTypes.string
   }),
