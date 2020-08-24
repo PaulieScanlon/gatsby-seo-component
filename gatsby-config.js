@@ -3,7 +3,7 @@ module.exports = {
     title: 'Mr Website',
     description: 'A website about Mr Website',
     keywords: ['React', 'Gatsby', 'JAMStack'],
-    url: 'https://www.mr-website.com',
+    url: 'https://gatsby-seo-component.netlify.app',
     ogImage: 'images/og-image.jpg',
     favicon: {
       ico: 'images/favicon.ico',
